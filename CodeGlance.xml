@@ -1,5 +1,6 @@
 <application>
   <component name="CodeGlance">
     <option name="viewportColor" value="555555" />
+    <option name="width" value="64" />
   </component>
 </application>
