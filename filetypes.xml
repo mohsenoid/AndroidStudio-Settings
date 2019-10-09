@@ -1,10 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gitignore_global.txt" type="Git file" />
-      <mapping pattern="FW_UPDATE" type="PLAIN_TEXT" />
-      <mapping pattern="0c297217d92e976a1b45b0d21aa0a9a3" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping pattern="navigationDB" type="DBN-SQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".editoconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
