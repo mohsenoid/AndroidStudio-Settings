@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'CoviLights'" />
-    <option name="defaultScopeName" value="Project 'CoviLights'" />
+    <option name="customScope" value="Project 'CloseToMe'" />
+    <option name="defaultScopeName" value="Project 'CloseToMe'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'CoviLights'" />
+    <option name="SEARCH_SCOPE" value="Project 'CloseToMe'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
