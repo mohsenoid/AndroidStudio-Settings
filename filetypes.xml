@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".editoconfig" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
