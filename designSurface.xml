@@ -18,6 +18,8 @@
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/fragment_subcontractor_single_driver_map.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/fragment_tour.xml" value="0.26902173913043476" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/partial_map_address_warning_button.xml" value="0.5" />
+        <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/partial_map_handling_buttons.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/partial_map_recalculate_buttons.xml" value="0.23020833333333332" />
       </map>
     </option>
   </component>
