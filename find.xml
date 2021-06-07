@@ -18,5 +18,6 @@
     <mask>*.xml</mask>
     <mask>*.kts</mask>
     <mask>*.kt</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
