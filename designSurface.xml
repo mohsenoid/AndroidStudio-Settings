@@ -11,9 +11,11 @@
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/drawable/ic_volume_off.xml" value="0.2453125" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/drawable/ic_volume_up.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/drawable/ic_warning.xml" value="0.2453125" />
+        <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout-sw600dp/fragment_base_data_endpoint.xml" value="0.1" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout-sw600dp/fragment_direct_navigation.xml" value="0.2028688524590164" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout-sw600dp/fragment_tour.xml" value="0.209765625" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/activity_imei.xml" value="0.365625" />
+        <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/fragment_base_data_endpoint.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/fragment_direct_navigation.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/fragment_driver_map_overlay_buttons.xml" value="0.5" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/fragment_driver_map_overlay_buttons_compass.xml" value="0.5" />
@@ -25,6 +27,9 @@
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/partial_map_handling_buttons.xml" value="0.23020833333333332" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/partial_map_recalculate_buttons.xml" value="0.23020833333333332" />
         <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/view_address_depot.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/view_address_input.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/view_depot_address.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mohsenoid/Development/GLS/sesc-android/app/src/main/res/layout/view_parcel_address.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/mohsenoid/Development/Personal/PhoneCaller/app/src/main/res/layout/activity_main.xml" value="0.27708333333333335" />
         <entry key="..\:/Users/mohsenoid/Development/Playground/IMEITest/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/mohsenoid/Development/Playground/MyLibrary/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
