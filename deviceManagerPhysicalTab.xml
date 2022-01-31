@@ -8,9 +8,10 @@
             <value value="RFCR309H68X" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <lastOnlineTime value="2022-01-31T18:38:24.692334200Z" />
+        <name value="samsung SM-A326B" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
