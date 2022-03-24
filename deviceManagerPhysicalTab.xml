@@ -5,25 +5,25 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="RFCR309H68X" />
+            <value value="5200e7b65bc0c4ad" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-24T11:23:37.495256500Z" />
-        <name value="samsung SM-A326B" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <lastOnlineTime value="2022-03-24T14:33:50.910260400Z" />
+        <name value="samsung SM-T395" />
+        <target value="Android 8.1" />
+        <api value="27" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="5200e7b65bc0c4ad" />
+            <value value="RFCR309H68X" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-24T11:23:37.496756600Z" />
-        <name value="samsung SM-T395" />
-        <target value="Android 8.1" />
-        <api value="27" />
+        <lastOnlineTime value="2022-03-24T14:33:50.911259600Z" />
+        <name value="samsung SM-A326B" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
