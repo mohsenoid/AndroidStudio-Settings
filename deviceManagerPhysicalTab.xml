@@ -5,10 +5,20 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="21071FDF6004Z9" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="5200e7b65bc0c4ad" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-24T14:33:50.910260400Z" />
         <name value="samsung SM-T395" />
         <target value="Android 8.1" />
         <api value="27" />
@@ -20,7 +30,6 @@
             <value value="RFCR309H68X" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-24T14:33:50.911259600Z" />
         <name value="samsung SM-A326B" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -43,7 +52,6 @@
             <value value="01d4afeda6c5436c" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-17T21:34:11.939338900Z" />
         <name value="LGE Nexus 5X" />
         <target value="Android 8.1" />
         <api value="27" />
