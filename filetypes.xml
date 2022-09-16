@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="RickAndMortyColor.kt" type="AUTO_DETECTED" />
       <mapping pattern="LivestreamReplayActionsResponse" type="AUTO_DETECTED" />
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".editoconfig" type="PLAIN_TEXT" />
@@ -12,9 +11,9 @@
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
