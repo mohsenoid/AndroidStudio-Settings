@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="Google Pixel 6" />
-        <target value="Android API 32" />
-        <api value="32" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +21,7 @@
         </key>
         <name value="samsung SM-T395" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +32,7 @@
         </key>
         <name value="samsung SM-A326B" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +43,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -54,7 +53,7 @@
         </key>
         <name value="LGE Nexus 5X" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
