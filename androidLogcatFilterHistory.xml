@@ -7,9 +7,10 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -level:[warn | error]" />
+    <option name="mostRecentlyUsed" value="package:mine level:[WARN|ERROR]" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:[WARN|ERROR]" />
         <option value="package:mine -level:[warn | error]" />
         <option value="package:mine -level:[warn, error]" />
       </list>
