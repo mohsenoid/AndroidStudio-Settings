@@ -55,6 +55,17 @@
         <target value="Android 8.1" />
         <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="localhost:46764" />
+          </Key>
+        </key>
+        <name value="samsung SM-M536B" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
