@@ -6,9 +6,10 @@
         <option value="package:mine level:warn " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine streamer" />
+    <option name="mostRecentlyUsed" value="package:mine joined" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine joined" />
         <option value="package:mine streamer" />
         <option value="package:mine " />
         <option value="package:mine WTF" />
