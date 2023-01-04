@@ -6,11 +6,11 @@
         <option value="package:mine level:warn " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine wtf" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine wtf" />
         <option value="package:mine" />
+        <option value="package:mine wtf" />
         <option value="package:mine WTF" />
         <option value="package:mine Multihost state" />
         <option value="package:mine Multihost" />
