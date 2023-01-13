@@ -6,9 +6,10 @@
         <option value="package:mine level:warn " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine WTF - " />
+    <option name="mostRecentlyUsed" value="package:mine Livestream status change event" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Livestream status change event" />
         <option value="package:mine WTF - " />
         <option value="package:mine streamers" />
         <option value="package:mine" />
@@ -28,7 +29,6 @@
         <option value="package:mine -level:warn" />
         <option value="package:mine level:[WARN|ERROR]" />
         <option value="package:mine -level:[warn | error]" />
-        <option value="package:mine -level:[warn, error]" />
       </list>
     </option>
   </component>
