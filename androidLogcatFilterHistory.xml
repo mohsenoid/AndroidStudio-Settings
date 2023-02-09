@@ -6,11 +6,11 @@
         <option value="package:mine level:warn " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:WTF VIEW" />
+    <option name="mostRecentlyUsed" value="package:mine WTF" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:WTF VIEW" />
         <option value="package:mine WTF" />
+        <option value="package:mine tag:WTF VIEW" />
         <option value="package:mine" />
         <option value="package:mine wtf - 4385130" />
         <option value="package:mine wtf -" />
