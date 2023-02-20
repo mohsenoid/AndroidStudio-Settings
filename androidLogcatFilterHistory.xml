@@ -6,9 +6,9 @@
         <option value="package:mine level:warn " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine WTF level:debug VideoPlayerFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine WTF level:debug VideoPlayerFragment" />
         <option value="package:mine WTF level:debug PlayerPagerView" />
         <option value="package:mine WTF level:debug PlayerPagerFragment" />
@@ -28,7 +28,6 @@
         <option value="package:mine" />
         <option value="package:mine tag:WTF VIEW" />
         <option value="package:mine wtf - 4385130" />
-        <option value="package:mine wtf -" />
       </list>
     </option>
   </component>
