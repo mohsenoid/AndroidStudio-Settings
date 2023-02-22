@@ -6,12 +6,12 @@
         <option value="package:mine level:warn " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine WTF" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WTF" />
         <option value="package:mine " />
         <option value="package:mine" />
-        <option value="package:mine WTF" />
         <option value="package:mine WTF level:debug VideoPlayerFragment" />
         <option value="package:mine WTF level:debug PlayerPagerView" />
         <option value="package:mine WTF level:debug PlayerPagerFragment" />
